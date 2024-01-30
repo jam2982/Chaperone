@@ -2,11 +2,11 @@
 
   /*
    Plugin Name: Chaperone
-   Plugin URI: https://www.ambrite.ca
+   Plugin URI: https://github.com/jam2982/Chaperone
    Description: Hide admin menus
    Version: 1.2
-   Author: Ambrite Web Services
-   Author URI: https://www.ambrite.ca
+   Author: jam2982
+   Author URI: https://github.com/jam2982
    License: GPL12
    */
 
